@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos\\SilvaWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\_ViewStart.cshtml",
@@ -67,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\_ViewImports.cshtml",
@@ -75,38 +67,11 @@
               "RelativeToolTip": "SilvaWebMvc\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T18:39:08.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T18:39:08.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T18:28:16.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T18:23:22.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\Department.cs",
@@ -114,12 +79,11 @@
               "RelativeToolTip": "SilvaWebMvc\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T18:21:16.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T18:21:16.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Shared\\Error.cshtml",
@@ -127,12 +91,11 @@
               "RelativeToolTip": "SilvaWebMvc\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T18:16:33.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T18:16:33.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
@@ -140,12 +103,11 @@
               "RelativeToolTip": "SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T18:15:22.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T18:15:22.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Home\\About.cshtml",
@@ -157,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Controllers\\HomeController.cs",
@@ -165,12 +127,11 @@
               "RelativeToolTip": "SilvaWebMvc\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T17:41:32.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T17:41:32.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Program.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Program.cs",
