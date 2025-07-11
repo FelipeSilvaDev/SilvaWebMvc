@@ -1,6 +1,6 @@
 using System;
 
-namespace SilvaWebMvc.Models
+namespace SilvaWebMvc.Models.ViewModels
 {
     public class ErrorViewModel
     {

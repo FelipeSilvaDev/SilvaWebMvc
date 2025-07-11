@@ -35,3 +35,4 @@ C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\SilvaWebMvc.dll
 C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\SilvaWebMvc.pdb
 C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\SilvaWebMvc.genruntimeconfig.cache
 C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\SilvaWeb.4E8AD598.Up2Date
+C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

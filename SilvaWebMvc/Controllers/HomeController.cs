@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SilvaWebMvc.Models;
+using SilvaWebMvc.Models.ViewModels;
 
 namespace SilvaWebMvc.Controllers
 {
