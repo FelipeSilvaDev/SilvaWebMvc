@@ -11,8 +11,76 @@
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\data\\silvawebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\shared\\_cookieconsentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\migrations\\silvawebmvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\migrations\\silvawebmvccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\migrations\\20250715173248_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\migrations\\20250715173248_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,24 +91,12 @@
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +110,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:55:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:55:00.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:54:36.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:54:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:48:51.775Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -71,72 +192,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Startup.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Startup.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Startup.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Startup.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T14:08:08.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Controllers\\DepartmentsController.cs",
               "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAIAwwGMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T13:38:59.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "SilvaWebMvc\\Views\\_ViewStart.cshtml",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T18:39:09.275Z",
+              "WhenOpened": "2025-07-15T17:42:34.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "SilvaWebMvc\\Views\\_ViewImports.cshtml",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T18:39:08.513Z",
+              "WhenOpened": "2025-07-15T17:42:35.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\Department.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Department.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T18:21:16.103Z",
+              "DocumentIndex": 11,
+              "Title": "_CookieConsentPartial.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Shared\\_CookieConsentPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:42:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:42:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:42:20.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T17:39:01.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Shared\\Error.cshtml",
@@ -149,20 +296,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "SilvaWebMvcContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Migrations\\SilvaWebMvcContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Migrations\\SilvaWebMvcContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Migrations\\SilvaWebMvcContextModelSnapshot.cs",
+              "RelativeToolTip": "SilvaWebMvc\\Migrations\\SilvaWebMvcContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T18:15:22.381Z",
+              "WhenOpened": "2025-07-15T17:34:01.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
+              "Title": "20250715173248_Initial.cs",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Migrations\\20250715173248_Initial.cs",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Migrations\\20250715173248_Initial.cs",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Migrations\\20250715173248_Initial.cs",
+              "RelativeToolTip": "SilvaWebMvc\\Migrations\\20250715173248_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:32:48.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Startup.cs",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Startup.cs",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Startup.cs",
+              "RelativeToolTip": "SilvaWebMvc\\Startup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:08:08.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Home\\About.cshtml",
@@ -175,7 +348,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\appsettings.json",
+              "RelativeToolTip": "SilvaWebMvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-15T17:16:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T18:39:09.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T18:39:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\Department.cs",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Department.cs",
+              "RelativeToolTip": "SilvaWebMvc\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:21:16.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "SilvaWebMvc\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:15:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Controllers\\HomeController.cs",
@@ -188,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Program.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Program.cs",

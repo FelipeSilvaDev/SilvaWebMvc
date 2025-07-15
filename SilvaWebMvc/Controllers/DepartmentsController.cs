@@ -1,9 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SilvaWebMvc.Models;
-using System.Threading.Tasks;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace SilvaWebMvc.Controllers
 {
@@ -26,15 +25,14 @@ namespace SilvaWebMvc.Controllers
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
-            {
                 return NotFound();
-            }
+
             var department = await _context.Department
                 .FirstOrDefaultAsync(m => m.Id == id);
+
             if (department == null)
-            {
                 return NotFound();
-            }
+
             return View(department);
         }
 
@@ -62,14 +60,12 @@ namespace SilvaWebMvc.Controllers
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
-            {
                 return NotFound();
-            }
+
             var department = await _context.Department.FindAsync(id);
             if (department == null)
-            {
                 return NotFound();
-            }
+
             return View(department);
         }
 
@@ -79,9 +75,8 @@ namespace SilvaWebMvc.Controllers
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name")] Department department)
         {
             if (id != department.Id)
-            {
                 return NotFound();
-            }
+
             if (ModelState.IsValid)
             {
                 try
@@ -92,13 +87,9 @@ namespace SilvaWebMvc.Controllers
                 catch (DbUpdateConcurrencyException)
                 {
                     if (!DepartmentExists(department.Id))
-                    {
                         return NotFound();
-                    }
                     else
-                    {
                         throw;
-                    }
                 }
                 return RedirectToAction(nameof(Index));
             }
@@ -106,20 +97,16 @@ namespace SilvaWebMvc.Controllers
         }
 
         // GET: Departments/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
-            {
                 return NotFound();
-            }
+
             var department = await _context.Department
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (department == null)
-            {
                 return NotFound();
-            }
+
             return View(department);
         }
 
@@ -134,6 +121,7 @@ namespace SilvaWebMvc.Controllers
                 _context.Department.Remove(department);
                 await _context.SaveChangesAsync();
             }
+
             return RedirectToAction(nameof(Index));
         }
 
