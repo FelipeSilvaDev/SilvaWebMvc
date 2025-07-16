@@ -1,0 +1,21 @@
+﻿using SilvaWebMvc.Models;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace SilvaWebMvc.Services
+{
+    public class SellerService
+    {
+        private readonly SilvaWebMvcContext _context;
+        
+        public SellerService(SilvaWebMvcContext context)
+        {
+            _context = context;
+        }
+
+        public List<Seller> FindAll()
+        {
+            return _context.Seller.ToList();
+        }
+    }
+}
