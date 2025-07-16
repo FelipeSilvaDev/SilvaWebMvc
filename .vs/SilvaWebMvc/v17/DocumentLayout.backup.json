@@ -3,68 +3,24 @@
   "WorkspaceRootPath": "C:\\Projetos\\SilvaWebMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\data\\silvawebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\data\\silvawebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\models\\enums\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|c:\\projetos\\silvawebmvc\\silvawebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3E464EB-C867-4CB2-B51E-13977F989CB5}|SilvaWebMvc\\SilvaWebMvc.csproj|solutionrelative:silvawebmvc\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,207 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SellerService.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Services\\SellerService.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Services\\SellerService.cs",
               "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Services\\SellerService.cs",
               "RelativeToolTip": "SilvaWebMvc\\Services\\SellerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T18:07:00.397Z",
+              "WhenOpened": "2025-07-16T19:05:13.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T18:58:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "SilvaWebMvc\\Views\\Sellers\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T18:47:28.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Sellers\\Index.cshtml",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Sellers\\Index.cshtml",
               "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Sellers\\Index.cshtml",
               "RelativeToolTip": "SilvaWebMvc\\Views\\Sellers\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAmwCsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-16T17:28:30.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T14:19:22.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\Department.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Department.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T14:19:11.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Startup.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Startup.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Startup.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Startup.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:42:14.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "SilvaWebMvc\\Controllers\\SellersController.cs",
               "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\SellersController.cs",
               "RelativeToolTip": "SilvaWebMvc\\Controllers\\SellersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T17:27:05.487Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\Seller.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Seller.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Models\\Seller.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T17:09:31.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T14:33:19.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Models\\SalesRecord.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T17:09:24.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SilvaWebMvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-16T17:15:31.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SilvaWebMvc\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-16T17:21:16.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SaleStatus.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Models\\Enums\\SaleStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T14:12:49.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-16T14:18:56.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SilvaWebMvcContext.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Data\\SilvaWebMvcContext.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Data\\SilvaWebMvcContext.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Data\\SilvaWebMvcContext.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Data\\SilvaWebMvcContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T14:39:14.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SeedingService.cs",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Data\\SeedingService.cs",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Data\\SeedingService.cs",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Data\\SeedingService.cs",
-              "RelativeToolTip": "SilvaWebMvc\\Data\\SeedingService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T13:41:44.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
-              "RelativeDocumentMoniker": "SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
-              "ToolTip": "C:\\Projetos\\SilvaWebMvc\\SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
-              "RelativeToolTip": "SilvaWebMvc\\Views\\Departments\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-16T14:18:54.324Z"
             }
           ]
         }
