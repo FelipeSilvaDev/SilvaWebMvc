@@ -42,3 +42,4 @@ C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departme
 C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Projetos\SilvaWebMvc\SilvaWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
