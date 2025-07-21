@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SilvaWebMvc.Models;
+using SilvaWebMvc.Models.ViewModels;
 using SilvaWebMvc.Services;
 
 namespace SilvaWebMvc.Controllers
@@ -7,10 +8,12 @@ namespace SilvaWebMvc.Controllers
     public class SellersController : Controller
     {
         private readonly SellerService _sellerService;
+        private readonly DepartmentService _departmentService;
 
-        public SellersController(SellerService sellerService)
+        public SellersController(SellerService sellerService, DepartmentService departmentService)
         {
             _sellerService = sellerService;
+            _departmentService = departmentService;
         }
 
         public IActionResult Index()
@@ -21,7 +24,12 @@ namespace SilvaWebMvc.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            var departments = _departmentService.FindAll();
+            var viewModel = new SellerFormViewModel
+            {
+                Departments = departments
+            };
+            return View(viewModel);
         }
 
         [HttpPost]
