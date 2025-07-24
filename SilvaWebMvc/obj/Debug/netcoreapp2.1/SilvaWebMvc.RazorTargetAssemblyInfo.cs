@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("SilvaWebMvc")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+005b24122e90a44eca8667f3166ccf30d7c39be0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb28c6276fb89ed295e49215ae6bf1730615eb15")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SilvaWebMvc.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
